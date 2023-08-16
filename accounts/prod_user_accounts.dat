@@ -1,0 +1,23 @@
+[USER_ACCOUNT1]
+username=eternals1
+password=kjt
+fullname=eternals1
+position=Trainee
+
+[USER_ACCOUNT2]
+username=eternals2
+password=kjt
+fullname=eternals2
+position=Trainee
+
+[USER_ACCOUNT3]
+username=eternals3
+password=kjt
+fullname=eternals3
+position=Tier III CSR
+
+[USER_ACCOUNT4]
+username=eternals4
+password=kjt
+fullname=eternals4
+position=Tier IV CSR

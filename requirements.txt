@@ -1,0 +1,2 @@
+git+https://github.com/rodnepo/autobot-core.git@core#egg=autocore
+
